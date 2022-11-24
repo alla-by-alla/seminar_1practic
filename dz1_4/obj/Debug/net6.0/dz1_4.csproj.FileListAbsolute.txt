@@ -1,0 +1,15 @@
+/Users/alla/Desktop/seminar/dz1_4/bin/Debug/net6.0/dz1_4
+/Users/alla/Desktop/seminar/dz1_4/bin/Debug/net6.0/dz1_4.deps.json
+/Users/alla/Desktop/seminar/dz1_4/bin/Debug/net6.0/dz1_4.runtimeconfig.json
+/Users/alla/Desktop/seminar/dz1_4/bin/Debug/net6.0/dz1_4.dll
+/Users/alla/Desktop/seminar/dz1_4/bin/Debug/net6.0/dz1_4.pdb
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.csproj.AssemblyReference.cache
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.AssemblyInfoInputs.cache
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.AssemblyInfo.cs
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.csproj.CoreCompileInputs.cache
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.dll
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/refint/dz1_4.dll
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.pdb
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/dz1_4.genruntimeconfig.cache
+/Users/alla/Desktop/seminar/dz1_4/obj/Debug/net6.0/ref/dz1_4.dll

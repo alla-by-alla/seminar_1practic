@@ -1,0 +1,15 @@
+/Users/alla/Desktop/seminar/task/bin/Debug/net6.0/task
+/Users/alla/Desktop/seminar/task/bin/Debug/net6.0/task.deps.json
+/Users/alla/Desktop/seminar/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/alla/Desktop/seminar/task/bin/Debug/net6.0/task.dll
+/Users/alla/Desktop/seminar/task/bin/Debug/net6.0/task.pdb
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.dll
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/refint/task.dll
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.pdb
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/alla/Desktop/seminar/task/obj/Debug/net6.0/ref/task.dll
